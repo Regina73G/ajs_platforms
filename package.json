@@ -1,0 +1,11 @@
+{
+  "name": "@regina73g/ajs_platforms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "https://github.com/Regina73G/ajs_platforms.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
